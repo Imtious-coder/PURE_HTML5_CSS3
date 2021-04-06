@@ -10,14 +10,14 @@ HTML body {
 }
 
 #Header p {
-    color: black;
+    color: red;
     font-weight: bold;
     padding-left: 50px;
     font-size: 24px;
 }
 
 #Header p:hover {
-    color: red;
+    color: black;
 }
 
 #Header ul {
@@ -41,3 +41,42 @@ HTML body {
 
 
 /* Header ends here... */
+
+#Audios{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(92, 76, 76);
+}
+
+.Audio{
+    width: 100%;
+    margin-top: 30px;
+    outline: none;
+}
+
+
+
+#About {
+    background-color: rgb(255, 249, 242);
+    margin: 0px;
+    color: rgb(185, 16, 10);
+    display: flex;
+}
+
+#About h1 {
+    text-align: center;
+    padding-top: 50px;
+    margin: 0px;
+}
+
+#About p {
+    text-align: center;
+}
+
+#About-Details{
+    margin-left: 150px;
+}
+
+#Lists{
+    margin-left: 250px;
+}
