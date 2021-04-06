@@ -54,6 +54,30 @@ HTML body {
     outline: none;
 }
 
+.Blogs{
+    height: 380px;
+}
+
+.Text{
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 50px;
+    float: left;
+    justify-content: center;
+}
+
+.Images{
+    width: 45%;
+    float: right;
+}
+
+.Image{
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
 
 
 #About {
